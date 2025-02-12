@@ -42,7 +42,9 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
   
   ## Installation
-  npm init, npm install inquirer and follow the directions in the video at https://drive.google.com/file/d/1YNr5FsLRC3vZ8vJD2tQFRP7KhKi_LpNV/view or copy my code from the index.js file
+  npm init, npm install inquirer and follow the directions in the video at 
+ https://drive.google.com/file/d/1YNr5FsLRC3vZ8vJD2tQFRP7KhKi_LpNV/view 
+ or copy my code from the index.js file
   
   ## Usage
   to create ReadMes
