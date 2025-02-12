@@ -1,4 +1,4 @@
-// TODO: Include packages needed for this application
+// packages needed for this application
 import inquirer from 'inquirer';
 import colors from 'colors';
 import fs from 'fs';
